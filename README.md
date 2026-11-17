@@ -20,13 +20,13 @@ The analysis is based on a bike sales dataset in Excel that contains historical 
 
 **Key Variables:**
 
-Date, Month, Year: Transaction dates
-Customer Age, Age Group, Customer Gender: Demographic details of the buyers
-Country & State: Geographic location of the sales 
-Product Category, Sub-Category & Product: Classifications of the items that were sold 
-Order Quantity: The number of units purchased
-Unit Cost & Unit Price: The pricing structure for the items that are being sold
-Revenue, Cost, & Profit: Key financial metrics that are derived for performance tracking
+**Date, Month, Year:** Transaction dates,
+**Customer Age, Age Group, Customer Gender:** Demographic details of the buyers,
+**Country & State:** Geographic location of the sales, 
+**Product Category, Sub-Category & Product:** Classifications of the items that were sold, 
+**Order Quantity:** The number of units purchased,
+**Unit Cost & Unit Price:** The pricing structure for the items that are being sold,
+**Revenue, Cost, & Profit:** Key financial metrics that are derived for performance tracking
 
 
 **3. Methodology**
